@@ -23,7 +23,7 @@ namespace MVCBasic2
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-hero.css",
                       "~/Content/site.css"));
         }
     }
